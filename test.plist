@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>https://dl.58cdn.com.cn/mis/basicpck-122206-MIS_Release_20200909205827.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://pic1.58cdn.com.cn/nowater/mis/n_v1bl2lwxx3iiyvskmfuvxa.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://pic1.58cdn.com.cn/nowater/mis/n_v1bl2lwxx3iiyvskmfuvxa.jpg</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
